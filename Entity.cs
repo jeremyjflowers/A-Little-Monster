@@ -6,9 +6,9 @@ namespace _2020GameJam
 {
     class Entity
     {
-        private string _name;
-        private float _health;
-        private int _damage;
+        public string _name;
+        public float _health;
+        public int _damage;
 
         public Entity()
         {
