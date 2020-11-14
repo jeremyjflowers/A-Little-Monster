@@ -1,0 +1,5 @@
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\2020GameJam.exe
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\2020GameJam.dll
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\2020GameJam.deps.json
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\2020GameJam.runtimeconfig.json
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\2020GameJam.pdb

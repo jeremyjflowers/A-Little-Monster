@@ -1,0 +1,13 @@
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.exe
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.deps.json
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.runtimeconfig.json
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.runtimeconfig.dev.json
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.dll
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\bin\Release\netcoreapp3.1\2020GameJam.pdb
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.csprojAssemblyReference.cache
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.AssemblyInfoInputs.cache
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.AssemblyInfo.cs
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.csproj.CoreCompileInputs.cache
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.dll
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.pdb
+C:\Users\RPGJuwan Gaming\OneDrive\Documents\Projects\A-Little-Monster\obj\Release\netcoreapp3.1\2020GameJam.genruntimeconfig.cache
