@@ -33,7 +33,7 @@ namespace _2020GameJam
 
         public virtual void End()
         {
-            if(player.GetIsAlive() && karmaPoints > 7)
+            if(player.GetIsAlive() && karmaPoints > 4)
             {
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("You awoke from the terrible nightmare you just had only to discover that your head was resting on a steering wheel. You look over towards your hand and spot a bottle being held. You committed a grave mistake.");
@@ -47,7 +47,7 @@ namespace _2020GameJam
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("You got the [Can’t Be All Bad] ending!");
             }
-            else if(player.GetIsAlive() && karmaPoints < 4)
+            else if(player.GetIsAlive() && karmaPoints < 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("You go through the exit and find yourself leaning against a steering wheel and a bottle in your hand. You look up and see that you crashed into another car in your drunken haze.");
@@ -444,6 +444,7 @@ namespace _2020GameJam
                         Console.WriteLine("The light drifted towards you and you feel a weight has lifted somewhat. You look back at the woman only to realize that she is gone. You walk back out of the room wondering what type of person you were.");
                         goodKarma += 6;
                         Continue();
+                        gameOver = true;
                     }
                     else
                     {
@@ -458,9 +459,9 @@ namespace _2020GameJam
                         Console.WriteLine("She rushed towards you and ripped a light from you, the weight on your shoulder grew and the pain on your skull worsened.");
                         badKarma += 6;
                         Continue();
+                        gameOver = true;
                     }
                 }
-                gameOver = true;
             }
         }
     }
